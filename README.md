@@ -10,3 +10,6 @@ A collection of reverse engineering challenges that I wrote, some easier than ot
 
 **Write Ups** 
 - Write ups, with guides on how to reverse engineer the executables, images, witty comments and more found within. 
+
+--- 
+I wrote all of these while I was starting to just learn C (for the 4th or 5th time) please excuse any improper syntax, unfreed malloc, or misuse of pointers. 
